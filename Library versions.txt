@@ -1,0 +1,13 @@
+
+Recommended esp8266 version is 2.3.0
+
+Using library MPU6050 
+Wire at version 1.0 
+ESP8266WiFi at version 1.0 
+DNSServer at version 1.1.0 
+ESP8266WebServer at version 1.0 
+WiFiManager at version 0.12 
+pubsubclient-master at version 2.6 
+Ring_Buffer in folder: C:\Users\Ram\Documents\Arduino\libraries\Ring_Buffer (legacy)
+SPI at version 1.0 
+SD at version 1.0.5 in folder: C:\Users\Ram\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries\SD 

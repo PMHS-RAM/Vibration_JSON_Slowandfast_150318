@@ -1,0 +1,10 @@
+
+esp8266 with MPU connected  -- I2C Communication
+
+SD Card SPI connections to NodeMCU -- SPI Communication
+
+SD Card Adapter must be supplied with 5V power 
+
+Chip select pin is GPIO16 (esp8266)
+
+Follow the instructions in Library Default path locations.txt

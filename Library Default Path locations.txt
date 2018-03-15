@@ -1,0 +1,10 @@
+Library Path for Wire.h for I2C Buffer Size change to 128 Bytes
+--------------------------------------------------------------------
+C:\Users\ArunRaj\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.3.0\libraries
+--------------------------------------------------------------------
+
+Library Path for I2C Speed Change to 400 KHz in this file core_esp8266_si2c
+and path is as given follows
+--------------------------------------------------------------------
+C:\Users\ArunRaj\AppData\Local\Arduino15\packages\esp8266\hardware\esp8266\2.3.0\cores\esp8266
+--------------------------------------------------------------------
